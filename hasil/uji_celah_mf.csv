@@ -1,0 +1,6 @@
+variabel,tanpa_celah,min_dari_max_mu,titik_terlemah
+ipk,True,0.5,2.75
+penghasilan,True,0.5,3.0
+tanggungan,True,0.5,2.0
+prestasi,True,0.5,40.0
+kelayakan,True,0.5,35.0

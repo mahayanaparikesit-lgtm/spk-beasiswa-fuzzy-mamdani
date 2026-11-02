@@ -1,0 +1,23 @@
+id,ipk,penghasilan,tanggungan,prestasi,kelayakan,alasan
+R1,Rendah,Rendah,-,-,Cukup Layak,"Sangat membutuhkan bantuan, tetapi akademiknya lemah sehingga hanya cukup layak."
+R2,Rendah,Sedang,-,-,Tidak Layak,Akademik lemah dan kebutuhan ekonomi tidak mendesak.
+R3,Rendah,Tinggi,-,-,Tidak Layak,Tidak unggul secara akademik dan keluarga mampu secara ekonomi.
+R4,Sedang,Rendah,-,-,Layak,IPK memenuhi syarat umum dan keluarga membutuhkan bantuan.
+R5,Sedang,Sedang,-,-,Cukup Layak,Akademik dan kondisi ekonomi sama-sama menengah.
+R6,Sedang,Tinggi,-,-,Tidak Layak,Keluarga mampu dan IPK tidak menonjol.
+R7,Tinggi,Rendah,-,-,Sangat Layak,Unggul secara akademik dan sangat membutuhkan bantuan.
+R8,Tinggi,Sedang,-,-,Layak,Unggul secara akademik dengan kebutuhan ekonomi sedang.
+R9,Tinggi,Tinggi,-,-,Cukup Layak,"Unggul secara akademik, tetapi keluarga mampu sehingga prioritas turun."
+R10,-,-,Sedikit,Rendah,Tidak Layak,Prestasi rendah dan beban keluarga ringan.
+R11,-,-,Sedang,Rendah,Tidak Layak,Beban keluarga sedang belum menutupi prestasi yang rendah.
+R12,-,-,Banyak,Rendah,Cukup Layak,Beban keluarga berat memberi pertimbangan meskipun prestasi rendah.
+R13,-,-,Sedikit,Sedang,Tidak Layak,Prestasi biasa dan beban keluarga ringan.
+R14,-,-,Sedang,Sedang,Cukup Layak,Prestasi dan beban keluarga sama-sama menengah.
+R15,-,-,Banyak,Sedang,Layak,Beban keluarga berat dengan prestasi yang memadai.
+R16,-,-,Sedikit,Tinggi,Cukup Layak,"Berprestasi, tetapi beban keluarga ringan."
+R17,-,-,Sedang,Tinggi,Layak,Berprestasi dengan beban keluarga sedang.
+R18,-,-,Banyak,Tinggi,Sangat Layak,Berprestasi dan menanggung beban keluarga yang berat.
+R19,Rendah,-,-,Rendah,Tidak Layak,Gagal memenuhi standar akademik minimum dari dua sisi (IPK dan prestasi).
+R20,-,Tinggi,Sedikit,-,Tidak Layak,Penghasilan tinggi dengan beban ringan berarti tidak membutuhkan bantuan.
+R21,-,Rendah,Banyak,-,Layak,Kebutuhan ekonomi sangat mendesak (miskin dengan banyak tanggungan).
+R22,Tinggi,-,-,Tinggi,Layak,Merit akademik kuat dari dua sisi (IPK dan prestasi).

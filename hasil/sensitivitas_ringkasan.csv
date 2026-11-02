@@ -1,0 +1,5 @@
+variabel,nilai_dasar,skor_di_min,skor_di_maks,rentang_skor,arah_diharapkan,monoton_sesuai_arah,titik_paling_tajam,kemiringan_maks_per_satuan,perubahan_maks_per_langkah,plateau
+ipk,3.2,41.945,64.97,23.025,naik,True,2.995,61.837,0.6184,[0–2.5] skor≈41.95; [3.5–4] skor≈64.97
+penghasilan,4.5,64.967,47.897,17.071,turun,True,6.0187,11.627,0.436,[0–2.775] skor≈64.97; [3.225–6] skor≈63.99; [7.8–15] skor≈47.90
+tanggungan,4.0,38.947,63.99,25.042,naik,True,2.99,19.432,0.3886,[0–1.8] skor≈38.95; [4–8] skor≈63.99
+prestasi,60.0,38.947,63.99,25.042,naik,True,49.875,1.94,0.4851,[0–38] skor≈38.95; [60–100] skor≈63.99

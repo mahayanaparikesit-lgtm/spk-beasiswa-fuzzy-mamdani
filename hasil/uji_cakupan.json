@@ -1,0 +1,41 @@
+{
+  "grid": [
+    {
+      "titik_per_variabel": 20,
+      "total_kombinasi": 160000,
+      "tercakup": 160000,
+      "persen": 100.0,
+      "contoh_tidak_tercakup": [],
+      "min_alpha_maks": 0.5526315789473684,
+      "aturan_aktif_min": 2,
+      "aturan_aktif_maks": 10,
+      "aturan_aktif_rata2": 4.6375
+    },
+    {
+      "titik_per_variabel": 30,
+      "total_kombinasi": 810000,
+      "tercakup": 810000,
+      "persen": 100.0,
+      "contoh_tidak_tercakup": [],
+      "min_alpha_maks": 0.5344827586206897,
+      "aturan_aktif_min": 2,
+      "aturan_aktif_maks": 10,
+      "aturan_aktif_rata2": 4.633333333333334
+    },
+    {
+      "titik_per_variabel": 40,
+      "total_kombinasi": 2560000,
+      "tercakup": 2560000,
+      "persen": 100.0,
+      "contoh_tidak_tercakup": [],
+      "min_alpha_maks": 0.5384615384615383,
+      "aturan_aktif_min": 2,
+      "aturan_aktif_maks": 10,
+      "aturan_aktif_rata2": 4.653125
+    }
+  ],
+  "kombinasi_kategori": {
+    "total": 81,
+    "tidak_tercakup": []
+  }
+}

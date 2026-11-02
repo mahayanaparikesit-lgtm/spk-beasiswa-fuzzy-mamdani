@@ -1,0 +1,23 @@
+id,nama_samaran,ipk,penghasilan,tanggungan,prestasi,kategori_uji
+M01,Andi,4.0,0.0,8,100,Ekstrem: semua sangat baik (nilai batas semesta)
+M02,Budi,0.0,15.0,0,0,Ekstrem: semua sangat buruk (nilai batas semesta)
+M03,Citra,4.0,15.0,8,100,Ekstrem: semua nilai maksimum semesta
+M04,Dewi,0.0,0.0,0,0,Ekstrem: semua nilai nol
+M05,Eka,3.0,4.0,3,50,Batas: tepat di puncak kategori Sedang
+M06,Fajar,3.5,2.0,5,70,Batas: tepat di awal bahu Tinggi/Rendah/Banyak
+M07,Gita,2.5,9.0,1,30,Batas: tepat di ujung bahu (2.5; 9; 1; 30)
+M08,Hadi,3.5,6.0,1,30,Batas: campuran titik parameter
+M09,Indah,3.3,3.5,4,62,Tumpang tindih: semua input di daerah overlap
+M10,Joko,2.75,3.0,2,40,Tumpang tindih: semua input tepat mu=0.5
+M11,Kirana,3.2,7.5,3.5,58,Tumpang tindih: penghasilan Sedang-Tinggi
+M12,Lukman,3.9,12.0,2,85,Bertentangan: IPK & prestasi tinggi tetapi keluarga kaya
+M13,Maya,2.1,0.8,7,25,Bertentangan: IPK rendah tetapi sangat miskin & tanggungan banyak
+M14,Nanda,2.3,3.0,3,90,Bertentangan: prestasi tinggi tetapi IPK rendah
+M15,Oki,3.8,1.5,2,15,Bertentangan: IPK tinggi & miskin tetapi prestasi rendah
+M16,Putri,3.0,11.0,7,55,Bertentangan: tanggungan banyak tetapi penghasilan tinggi
+M17,Rizky,3.45,5.2,3,66,Normal
+M18,Sari,2.9,2.8,4,48,Normal
+M19,Tono,3.6,4.0,2,75,Normal
+M20,Umi,3.1,6.5,5,40,Normal
+M21,Vina,3.75,2.5,6,80,Normal
+M22,Wahyu,2.6,8.0,2,35,Normal

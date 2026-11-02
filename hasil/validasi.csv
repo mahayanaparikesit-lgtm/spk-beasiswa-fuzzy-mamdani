@@ -1,0 +1,5 @@
+kasus,ipk,penghasilan,tanggungan,prestasi,skor_manual,skor_program,selisih_manual_program,skor_skfuzzy,selisih_program_skfuzzy
+M09 Indah (tumpang tindih),3.3,3.5,4,62,66.171357,66.171357,1.2789769243681803e-13,66.147031,0.024326
+M13 Maya (bertentangan),2.1,0.8,7,25,36.574404,36.574404,0.0,36.602564,0.02816
+M17 Rizky (normal),3.45,5.2,3,66,60.294118,60.294118,6.394884621840902e-14,60.294118,0.0
+M12 Lukman (bertentangan),3.9,12.0,2,85,43.02014,43.02014,2.1316282072803006e-14,43.041667,0.021527
